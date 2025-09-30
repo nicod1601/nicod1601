@@ -31,8 +31,8 @@
 
 ## 📫 Me contacter
 
-* ✉️ Email : [nicolas.delpech@example.com](mailto:nicolas.delpech@example.com)
-* 💼 LinkedIn : [TonProfilLinkedIn]
+* ✉️ Email : [nicolasdelpech.16@outlook.fr]
+* 💼 LinkedIn :
 
 ---
 
