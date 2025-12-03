@@ -53,6 +53,10 @@
 - **VS Code**  
 - **IntelliJ IDEA**
 
+### 💻 FrameWork
+- **Laravel**  
+- **symfony**
+
 ---
 
 <div align="center">
