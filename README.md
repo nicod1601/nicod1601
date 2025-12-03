@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Salut, moi c’est **Nicolas Delpech**
+# **Nicolas Delpech**
 
 🎓 Étudiant en **BUT Informatique – Le Havre**  
 💻 Passionné par le **développement web & logiciel**  
