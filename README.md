@@ -57,16 +57,14 @@
 
 <div align="center">
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Summary Cards
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicod1601&theme=tokyonight" alt="profile details" />
 
-## 📊 Statistiques GitHub
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicod1601&theme=tokyonight" alt="top langs" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=nicod1601&show_icons=true&theme=tokyonight&cache_seconds=7200" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicod1601&layout=compact&theme=tokyonight&cache_seconds=7200" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicod1601&theme=tokyonight" alt="stats" />
 
-</div>
 
 
 ---
