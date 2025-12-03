@@ -59,7 +59,8 @@
 
 ## 📊 Statistiques GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=nicod1601&show_icons=true&theme=tokyonight" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=nicod1601&show_icons=true&theme=tokyonight&cache_seconds=7200" height="160" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicod1601&layout=compact&theme=tokyonight" height="160" />
 
 ---
