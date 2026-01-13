@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=microsoft-outlook" />
 </a>
 <br>
+<a href="gmailto:nicod162005@gmail.com">
+  <img src="https://mail.google.com/mail/u/0/#inbox" />
+</a>
+<br>
 <a href="https://www.linkedin.com/in/nicolas-delpech-37499a389/">
   <img src="https://img.shields.io/badge/LinkedIn-Visiter%20mon%20profil-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
